@@ -1,4 +1,6 @@
-# Conheça o projeto
+# Desafio técnico (Estatística para Devs)
+
+## Conheça o projeto
 Nesse desafio trataremos um dicionário utilizando as bibliotecas Pandas e MatplotLib para obter a média de vendas de uma loja e trazer visualizações mais objetivas utilizando gráficos de barra e linhas.
 
 ## Instruções
@@ -13,6 +15,7 @@ Com base nas aulas do módulo de Estatística, utilize os métodos da biblioteca
 ## Código base
 
 ```python
+
 import pandas as pd
 import matplotlib.pyplot as plt
 
@@ -47,6 +50,7 @@ dict_faturamento = {
         995000,
         ]
 }
+
 ```
 
 ## Entrega
@@ -58,9 +62,9 @@ Feito com 💜 por Rocketseat 👋
 ## Tarefas
 ### Use este checklist para ajudar a organizar a sua entrega
 
-- [ ] Trazer a média das vendas
-- [ ] Criar um gráfico de barras vertical mostrando o mês de referência e o valor
-- [ ] Criar um gráfico de linhas mostrando o mês de referência e o valor
+- [x] Trazer a média das vendas
+- [x] Criar um gráfico de barras vertical mostrando o mês de referência e o valor
+- [x] Criar um gráfico de linhas mostrando o mês de referência e o valor
 
 
 
